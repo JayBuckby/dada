@@ -22,5 +22,57 @@ nav button {
     color: #394166;
     font-size: 30px;
     font-weight: bold;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 80%;
+       
+}
 
+.header {
+   color: #1bbaf2;
+   font-size: 55px;
+   text-align: center; 
+}
+
+main div {
+    padding: 10px;
+}
+
+main > img {
+    padding: 40px;
+}
+
+.tagline {
+    color: #394166;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.dad {
+    color: #1cb8f1;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+h4 {
+    color: #394168;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;    
+}
+
+main button {
+    width: 350px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: #394166;
+    color: white;
+    border-color: #394166;
+    font-size: 30px;
+    font-weight: bold;
 }
