@@ -1,5 +1,26 @@
 * {
-    background-color: beige;
+    background-color: #FDFCF7;
     padding: 0;
     margin: 0;
+}
+
+nav img {
+    height: 200px;
+    width: 400px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav button {
+    width: 175px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color: #394166;
+    color: #394166;
+    font-size: 30px;
+    font-weight: bold;
+
 }
