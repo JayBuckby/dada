@@ -90,3 +90,18 @@ div {
     width: 55%;
     justify-content: space-evenly;
 }
+
+footer {
+    background-color: #fffcdd;
+    color: #394168;
+    text-align: center;
+    height: 50%;
+    }
+    
+footer p {
+    margin-top: 20px;
+    background-color: #fffcdd;
+    padding: 25px;
+    font-size: 35px;
+    font-weight: bold;
+}
